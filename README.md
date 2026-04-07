@@ -75,7 +75,15 @@ All baseline implementations and training configurations are included in this re
 - **Anthropogenic factors** (roads, population, etc.)
 
 ---
+## Dataset Downloading
+The sampled dataset for model training, validation, and testing can be found under: https://huggingface.co/datasets/RyanSyn/BCWildfire/upload/main
 
+---
+
+## Baseline Models
+https://github.com/SynUW/hackathon10_WildfireForecasting
+
+---
 ## ✍️ Citation
 
 If you use the dataset or code, please cite:
