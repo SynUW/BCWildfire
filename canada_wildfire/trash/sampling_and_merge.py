@@ -1,0 +1,5 @@
+import canada_wildfire.previous_dataset_generation.pixel_sampling as pixel_sampling
+import canada_wildfire.previous_dataset_generation.merge_pixel_samples as merge_pixel_samples
+
+pixel_sampling.main()
+merge_pixel_samples.main()
