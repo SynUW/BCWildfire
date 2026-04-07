@@ -37,27 +37,6 @@ This repository provides the dataset interface, preprocessing tools, and benchma
 
 ---
 
-## 📦 Repository Structure
-
-```
-BCWildfire/
-│
-├── data/                     # Data download scripts & structure
-├── preprocessing/            # Data cleaning, harmonization, feature engineering
-├── models/                   # Benchmark model implementations
-│   ├── cnn/                  # CNN-based baselines
-│   ├── linear/               # Linear forecasting models
-│   ├── transformer/          # Transformer-based architectures
-│   └── mamba/                # Mamba-based sequence models
-│
-├── experiments/              # Training configs, logs, evaluation scripts
-├── utils/                    # Common utilities (metrics, visualization, loaders)
-│
-└── README.md                 # You are here
-```
-
----
-
 ## 🧠 Benchmark Models
 
 The paper evaluates a diverse set of time-series forecasting architectures, including:
