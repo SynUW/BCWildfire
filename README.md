@@ -76,12 +76,12 @@ All baseline implementations and training configurations are included in this re
 
 ---
 ## Dataset Downloading
-The sampled dataset for model training, validation, and testing can be found under: https://huggingface.co/datasets/RyanSyn/BCWildfire/upload/main
+The sampled dataset for model training, validation, and testing can be found under: [huggingface BCWildfire](https://huggingface.co/datasets/RyanSyn/BCWildfire)
 
 ---
 
 ## Baseline Models
-https://github.com/SynUW/hackathon10_WildfireForecasting
+[Github Models](https://github.com/SynUW/hackathon10_WildfireForecasting)
 
 ---
 ## ✍️ Citation
