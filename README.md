@@ -76,7 +76,9 @@ All baseline implementations and training configurations are included in this re
 
 ---
 ## Dataset Downloading
-The sampled dataset for model training, validation, and testing can be found under: [huggingface BCWildfire](https://huggingface.co/datasets/RyanSyn/BCWildfire)
+The sampled dataset for model training, validation, and testing can be found under: [huggingface BCWildfire](https://huggingface.co/datasets/RyanSyn/BCWildfire). 
+
+The entire dataset, full spatotemporal coverage tif files, will be provided on request. 
 
 ---
 
