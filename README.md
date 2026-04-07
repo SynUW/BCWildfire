@@ -1,6 +1,6 @@
 # BCWildfire: A Long-term Multi-factor Dataset and Deep Learning Benchmark for Boreal Wildfire Risk Prediction
 
-This repository contains the official implementation, data processing scripts, and benchmark models for the paper:
+This repository contains the official data processing scripts for the paper:
 
 > **BCWildfire: A Long-term Multi-factor Dataset and Deep Learning Benchmark for Boreal Wildfire Risk Prediction**  
 > *AAAI Conference on Artificial Intelligence (AAAI-26)*  
