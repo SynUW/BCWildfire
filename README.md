@@ -76,52 +76,6 @@ All baseline implementations and training configurations are included in this re
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/<your-org>/BCWildfire.git
-cd BCWildfire
-```
-
-### 2. Install dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Download the dataset
-```bash
-bash data/download.sh
-```
-
-### 4. Train a baseline model
-```bash
-python experiments/train.py --config configs/transformer.yaml
-```
-
----
-
-## 📈 Results & Evaluation
-
-The benchmark evaluates:
-
-- wildfire occurrence prediction  
-- temporal forecasting performance  
-- sensitivity to environmental drivers  
-- model robustness across long-term sequences  
-
-Detailed results and reproduction instructions are provided in `experiments/`.
-
----
-
-## 📽️ Paper & Resources
-
-- **Paper PDF** (AAAI-26)  
-- **Video / Slides** (from AAAI presentation)  
-  [ojs.aaai.org](https://ojs.aaai.org/index.php/AAAI/article/view/41299)
-
----
-
 ## ✍️ Citation
 
 If you use the dataset or code, please cite:
